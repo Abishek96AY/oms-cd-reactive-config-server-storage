@@ -8,7 +8,8 @@ target/
 # Ignore all files by default
 *
 
-# But keep these specific files and folders
+# Keep these specific files and folders
+!api-gateway.properties
 !auth-service.properties
 !registration-service.properties
 !token-service.properties
